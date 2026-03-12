@@ -73,7 +73,7 @@ src/main/java/com/example/mini_task
 
 ## API Documentation
 
-- Detailed API reference: `API_DOCUMENTATION.md`
+- Detailed API reference: [`API_DOCUMENTATION.md`](./API_DOCUMENTATION.md)
 
 ## Quick Start
 
