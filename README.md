@@ -1,5 +1,7 @@
 # Mini Task Management System
 
+Frontend repository: https://github.com/manuthkausilu/Mini-Task-Management-System-Frontend
+
 Spring Boot backend for task management with JWT authentication, role-based access (`ADMIN`, `USER`), and MySQL persistence.
 
 ## What This Project Includes
